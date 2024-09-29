@@ -11,25 +11,25 @@
 
 
     <gazebo reference="link_base">
-        <material>Gazebo/Blue</material>
+        <material>Gazebo/Black</material>
     </gazebo>
     <gazebo reference="link_caster_back">
-        <material>Gazebo/Grey</material>
+        <material>Gazebo/Black</material>
         <mu1>0</mu1>
         <mu2>0</mu2>
     </gazebo>
     <gazebo reference="link_caster_front">
-        <material>Gazebo/Purple</material>
+        <material>Gazebo/Black</material>
         <mu1>0</mu1>
         <mu2>0</mu2>
     </gazebo>
     <gazebo reference="link_left_wheel">
-        <material>Gazebo/Red</material>
+        <material>Gazebo/Black</material>
         <mu1>1</mu1>
         <mu2>1</mu2>
     </gazebo>
     <gazebo reference="link_right_wheel">
-        <material>Gazebo/Red</material>
+        <material>Gazebo/Black</material>
         <mu1>1</mu1>
         <mu2>1</mu2>
     </gazebo>
